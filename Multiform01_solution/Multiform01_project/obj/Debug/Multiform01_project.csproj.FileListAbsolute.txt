@@ -1,0 +1,10 @@
+C:\Users\g.ruci.1372\Desktop\Multiform01_solution\Multiform01_project\bin\Debug\Multiform01_project.exe.config
+C:\Users\g.ruci.1372\Desktop\Multiform01_solution\Multiform01_project\bin\Debug\Multiform01_project.exe
+C:\Users\g.ruci.1372\Desktop\Multiform01_solution\Multiform01_project\bin\Debug\Multiform01_project.pdb
+C:\Users\g.ruci.1372\Desktop\Multiform01_solution\Multiform01_project\obj\Debug\Multiform01_project.csprojAssemblyReference.cache
+C:\Users\g.ruci.1372\Desktop\Multiform01_solution\Multiform01_project\obj\Debug\Multiform01_project.btnForm2.resources
+C:\Users\g.ruci.1372\Desktop\Multiform01_solution\Multiform01_project\obj\Debug\Multiform01_project.Form2.resources
+C:\Users\g.ruci.1372\Desktop\Multiform01_solution\Multiform01_project\obj\Debug\Multiform01_project.Properties.Resources.resources
+C:\Users\g.ruci.1372\Desktop\Multiform01_solution\Multiform01_project\obj\Debug\Multiform01_project.csproj.GenerateResource.cache
+C:\Users\g.ruci.1372\Desktop\Multiform01_solution\Multiform01_project\obj\Debug\Multiform01_project.exe
+C:\Users\g.ruci.1372\Desktop\Multiform01_solution\Multiform01_project\obj\Debug\Multiform01_project.pdb
